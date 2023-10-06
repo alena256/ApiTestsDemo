@@ -1,6 +1,9 @@
 #### How to run tests
+Install requirements
+```
+npm install
+```
 Run the following command from the root folder
-
 ```
 npx playwright test
 ``` 
